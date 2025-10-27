@@ -1,6 +1,6 @@
 # 🍺 Beer API - Digital Innovation One
 
-Uma **API RESTful** para gerenciar dados de cervejas, desenvolvida como projeto do bootcamp **Digital Innovation One**.  
+Uma **API REST** para gerenciar dados de cervejas, desenvolvida como projeto do bootcamp **Digital Innovation One**.  
 Permite realizar operações de **CRUD (Create, Read, Update, Delete)** em registros de cervejas, ideal para sistemas de catálogo ou controle de estoque.
 
 ---
